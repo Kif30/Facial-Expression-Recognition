@@ -1,12 +1,4 @@
 # Facial-Expression-Recognition
-Good. Shipping without a proper README is amateur behavior.
-Here’s a **clean, client-grade README** you can drop straight into GitHub. No fluff, no lies, no overpromising.
-
-Copy-paste this as **`README.md`**.
-
----
-
-```markdown
 # Facial Expression Recognition Web App
 
 A browser-based real-time facial expression recognition application built using **HTML, CSS, and JavaScript**.  
@@ -149,20 +141,4 @@ Developed by **Syed Akif**
 
 ---
 
-```
 
----
-
-### Brutal mentor note (read this)
-- This README is **professional**
-- It won’t get you laughed at in a client repo
-- It sets correct expectations
-- It protects you legally and technically
-
-If you want:
-- a **shorter README**
-- a **client-branded README**
-- or a **resume-optimized version**
-
-say the word.
-```
