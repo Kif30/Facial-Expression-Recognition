@@ -23,6 +23,7 @@ The entire system runs **client-side in the browser** — no backend, no data st
   - 😊 Happy
   - 😢 Sad
   - 😮 Surprised
+  etc
 
 - Instant visual feedback with confidence percentage
 - Fully client-side (privacy-friendly)
